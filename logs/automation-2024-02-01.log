@@ -1,0 +1,144 @@
+23:04:04.103 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********** starting test TC_001_AccountRegistrationTest *******
+23:04:04.255 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+23:04:04.592 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+23:04:04.593 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details..
+23:04:07.790 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+23:04:10.845 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+23:04:10.850 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Finished TC_001_AccountRegistrationTest execution
+23:04:13.577 [main] INFO  testCases.TC_002_LoginTest - ******  Staring TC_002_LoginTest ********
+23:04:13.814 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount link on Home page
+23:04:14.121 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under MyAccount
+23:04:14.126 [main] INFO  testCases.TC_002_LoginTest - entering username and password
+23:04:17.706 [main] INFO  testCases.TC_002_LoginTest - clicked login button
+23:04:20.842 [main] INFO  testCases.TC_002_LoginTest - ****** Fininshed TC_002_LoginTest ********
+23:04:24.625 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********** starting test TC_001_AccountRegistrationTest *******
+23:04:24.747 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+23:04:25.089 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+23:04:25.089 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details..
+23:04:28.467 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+23:04:31.515 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+23:04:31.515 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Finished TC_001_AccountRegistrationTest execution
+23:04:32.254 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********** starting test TC_001_AccountRegistrationTest *******
+23:04:32.261 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed..
+23:09:45.131 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sadiy\Desktop\EclipseprojectWorkspace\opencart\masterAllTests.xml"
+23:09:45.258 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sadiy\Desktop\EclipseprojectWorkspace\opencart\crossBrowserSequence.xml"
+23:09:49.172 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********** starting test TC_001_AccountRegistrationTest *******
+23:09:49.524 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+23:09:49.883 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+23:09:49.883 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details..
+23:09:53.058 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+23:09:56.115 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+23:09:56.115 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Finished TC_001_AccountRegistrationTest execution
+23:09:58.691 [main] INFO  testCases.TC_002_LoginTest - ******  Staring TC_002_LoginTest ********
+23:09:58.867 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount link on Home page
+23:09:59.220 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under MyAccount
+23:09:59.225 [main] INFO  testCases.TC_002_LoginTest - entering username and password
+23:10:02.908 [main] INFO  testCases.TC_002_LoginTest - clicked login button
+23:10:05.997 [main] INFO  testCases.TC_002_LoginTest - ****** Fininshed TC_002_LoginTest ********
+23:10:09.725 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********** starting test TC_001_AccountRegistrationTest *******
+23:10:10.026 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+23:10:10.410 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+23:10:10.410 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details..
+23:10:13.587 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+23:10:16.622 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+23:10:16.622 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Finished TC_001_AccountRegistrationTest execution
+23:10:17.389 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********** starting test TC_001_AccountRegistrationTest *******
+23:10:17.405 [main] ERROR testCases.TC_001_AccountRegistrationTest - test failed..
+23:15:41.749 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********** starting test TC_001_AccountRegistrationTest *******
+23:15:41.972 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+23:15:42.334 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+23:15:42.335 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details..
+23:15:45.487 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+23:15:48.535 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+23:15:48.539 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Finished TC_001_AccountRegistrationTest execution
+23:15:57.101 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********** starting test TC_001_AccountRegistrationTest *******
+23:15:57.358 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+23:15:57.780 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+23:15:57.780 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details..
+23:16:00.657 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+23:16:03.708 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+23:16:03.708 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Finished TC_001_AccountRegistrationTest execution
+23:16:07.961 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********** starting test TC_001_AccountRegistrationTest *******
+23:16:08.050 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+23:16:08.439 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+23:16:08.439 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details..
+23:16:11.626 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+23:16:14.674 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+23:16:14.674 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Finished TC_001_AccountRegistrationTest execution
+23:16:47.815 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sadiy\Desktop\EclipseprojectWorkspace\opencart\masterAllTests.xml"
+23:16:47.936 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sadiy\Desktop\EclipseprojectWorkspace\opencart\crossBrowserSequence.xml"
+23:16:51.800 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********** starting test TC_001_AccountRegistrationTest *******
+23:16:51.907 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+23:16:52.243 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+23:16:52.244 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details..
+23:16:55.394 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+23:16:58.430 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+23:16:58.431 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Finished TC_001_AccountRegistrationTest execution
+23:17:00.895 [main] INFO  testCases.TC_002_LoginTest - ******  Staring TC_002_LoginTest ********
+23:17:01.452 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount link on Home page
+23:17:01.766 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under MyAccount
+23:17:01.767 [main] INFO  testCases.TC_002_LoginTest - entering username and password
+23:17:05.321 [main] INFO  testCases.TC_002_LoginTest - clicked login button
+23:17:08.411 [main] INFO  testCases.TC_002_LoginTest - ****** Fininshed TC_002_LoginTest ********
+23:17:12.274 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********** starting test TC_001_AccountRegistrationTest *******
+23:17:12.516 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+23:17:12.850 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+23:17:12.850 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details..
+23:17:15.995 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+23:17:19.040 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+23:17:19.040 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Finished TC_001_AccountRegistrationTest execution
+23:17:25.172 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********** starting test TC_001_AccountRegistrationTest *******
+23:17:25.434 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+23:17:25.752 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+23:17:25.752 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details..
+23:17:28.586 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+23:17:31.630 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+23:17:31.630 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Finished TC_001_AccountRegistrationTest execution
+23:17:38.068 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********** starting test TC_001_AccountRegistrationTest *******
+23:17:38.195 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+23:17:38.618 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+23:17:38.619 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details..
+23:17:41.822 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+23:17:44.866 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+23:17:44.866 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Finished TC_001_AccountRegistrationTest execution
+23:23:42.641 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sadiy\Desktop\EclipseprojectWorkspace\opencart\masterAllTests.xml"
+23:23:43.024 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sadiy\Desktop\EclipseprojectWorkspace\opencart\crossBrowserSequence.xml"
+23:23:47.453 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********** starting test TC_001_AccountRegistrationTest *******
+23:23:47.609 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+23:23:48.049 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+23:23:48.049 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details..
+23:23:51.305 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+23:23:54.350 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+23:23:54.355 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Finished TC_001_AccountRegistrationTest execution
+23:23:56.770 [main] INFO  testCases.TC_002_LoginTest - ******  Staring TC_002_LoginTest ********
+23:23:57.296 [main] INFO  testCases.TC_002_LoginTest - Clicked on MyAccount link on Home page
+23:23:57.609 [main] INFO  testCases.TC_002_LoginTest - clicked on login link under MyAccount
+23:23:57.615 [main] INFO  testCases.TC_002_LoginTest - entering username and password
+23:24:01.245 [main] INFO  testCases.TC_002_LoginTest - clicked login button
+23:24:04.356 [main] INFO  testCases.TC_002_LoginTest - ****** Fininshed TC_002_LoginTest ********
+23:24:08.471 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********** starting test TC_001_AccountRegistrationTest *******
+23:24:08.843 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+23:24:09.196 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+23:24:09.196 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details..
+23:24:12.392 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+23:24:15.439 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+23:24:15.440 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Finished TC_001_AccountRegistrationTest execution
+23:24:26.207 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********** starting test TC_001_AccountRegistrationTest *******
+23:24:26.512 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+23:24:26.941 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+23:24:26.942 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details..
+23:24:29.868 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+23:24:32.924 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+23:24:32.924 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Finished TC_001_AccountRegistrationTest execution
+23:24:38.784 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********** starting test TC_001_AccountRegistrationTest *******
+23:24:38.900 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+23:24:39.339 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
+23:24:39.339 [main] INFO  testCases.TC_001_AccountRegistrationTest - Entering customer details..
+23:24:42.587 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Continue
+23:24:45.637 [main] INFO  testCases.TC_001_AccountRegistrationTest - test passed
+23:24:45.638 [main] INFO  testCases.TC_001_AccountRegistrationTest - ******** Finished TC_001_AccountRegistrationTest execution
+23:30:17.509 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sadiy\Desktop\EclipseprojectWorkspace\opencart\masterAllTests.xml"
+23:30:17.798 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\sadiy\Desktop\EclipseprojectWorkspace\opencart\crossBrowserSequence.xml"
+23:30:21.142 [main] INFO  testCases.TC_001_AccountRegistrationTest - ********** starting test TC_001_AccountRegistrationTest *******
+23:30:21.358 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+23:30:21.667 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Registration link
